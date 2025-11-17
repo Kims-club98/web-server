@@ -1,0 +1,2 @@
+# node_modules폴더를 제외하고
+/node_modules
